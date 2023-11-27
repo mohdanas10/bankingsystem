@@ -269,7 +269,7 @@ function AdminHome() {
                         onClick={searchHandler}
                         className="mt-2 rounded-lg p-4 inline-flex items-center gap-2 bg-violet-700 text-white text-lg font-semibold py-3 px-6 rounded-r-md"
                       >
-                        <span>search</span>
+                        <span>Search</span>
                         <span className="hidden md:block">
                           <svg
                             className="text-gray-200 h-5 w-5 p-0 fill-current"
